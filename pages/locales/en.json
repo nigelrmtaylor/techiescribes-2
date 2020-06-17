@@ -1,0 +1,46 @@
+{
+    "title_signin" : "Sign in",
+"label_uname" : "User Name",
+"label_pwd" : "Password",
+"button_signin" : "Sign in",
+"link_login" : "Don't have login? Click here.",
+
+"title_home" : "TechieScribes Demo Site",
+"home_body_1" : "You have succeeded in logging in to the TechieScribes demo pages.",
+"home_body_2" : "Here you can discover how TechieTutor works. Below are a number of examples. Click the link to get to the respective pages and go through the tutorials.",
+"home_body_3" : "**For the examples in these pages, you do not have to enter your real data or valid information, the information entered just must conform to the format indicated for the respective field**.",
+"home_title2_ucex" : "###Use case examples###",
+"home_body_li1" : "Create Account",
+"home_body_li2" : "Change phone numbers in a company account",
+
+"title_account" : "Your Account",
+"account_body_1" : "Please fill in the fields below to create your account.  If you need help click **Shift + F1**.",
+"label_account_fname" : ",First Name",
+"label_account_lname" : ",Last Name",
+"label_account_birthday" : "Birthday",
+"label_account_email" : "Email Address",
+"label_account_pwdconf" : "Confirm Password",
+"button_valid" : "OK",
+"button_cancel" : "Cancel",
+
+"tutlbl_uname" : "For the purposes of this demo you do not need a private account with login, we will provide you with a general demo login. Enter **demo** as the user name in the **User Name** field below.",
+"tutlbl_pwd" : "For the purpose of this demo enter **demo123** as the password in the field below.",
+"tutlbl_signin" : "Now click the **Sign in** button below.",
+
+"tutlbl_account_fname" : "Enter your first name into the **First Name** field. You only need to enter the first name which is commonly used for you, if you have more than on first name.",
+"tutlbl_account_lname" : "Enter your family name into the **Last Name** field.",
+"tutlbl_account_uname" : "Enter a user name with which you would like to identify yourself to this site.  The user name can have a maximum length of 20 characters and may not contain any spaces or special characters.",
+"tutlbl_account_birthday" : "Enter your date of birth in the format of DD/MM/YYYY.",
+"tutlbl_account_email" : "Enter a valid email address into the **Email Address** field. The format of a valid email address is _name@domain._, for example _john.smith@example.com_.  **Note:** Make sure you enter an address which you can access, because you will receive an email after you confirmed all your account information. you will need to click a link on this received email to confirm you account.",
+"tutlbl_account_pwd" : "Enter a password for your account. Your password must consist of:  * at least 12 characters0  * at least one small and one capital letter  * at least one number  * at least one special character  It may NOT contain the following characters:  * spaces and punctuation marks apart from ! and ?  * /#, <,>, +, /*, and |",
+"tutlbl_account_pwdconf" : "Reenter the new password for confirmation purposes in the **Confirm Password** field.",
+"tutlbl_account_submit" : "Click **OK** to confirm all entries.",
+
+"error_WrongDateFormat" : "The date does not have the correct format, it must be DD/MM/YYYY.",
+"error_UsernameTooLong" : "The username is too long, it can only have a maximum of 20 characters",
+"error_PwTooShort" : "The password is too short, it must have at least 12 characters.",
+"error_PwSpecialChars" : "The password does not fit the specifications listed.",
+"error_EmailWrongFormat" : "This is not a valid email address.",
+"error_InvalidPhoneNr" : "This is not a valid phone number. Phone number may only conain numbers."
+
+}

@@ -1,0 +1,46 @@
+{
+    "title_signin" : "Identifiez vous",
+"label_uname" : "Nom d'utilisateur",
+"label_pwd" : "Mot de passe",
+"button_signin" : "S'identifier",
+"link_login" : "Vous n'avez pas d'identification ? Cliquez ici.",
+
+"title_home" : "Maquette TechieTutor",
+"home_body_1" : "Vous avez réussie de vous identifier aux pages de la maquette TechieTutor.",
+"home_body_2" : "Ici vous pouvez décourvrir comment fonctionne l'application Techietutor. Par dessous vous trouvez un nombre d'exemples. Cliquez les liens pour accéder les pages respectives et parcourir les tutoriels disponibles.",
+"home_body_3" : "**Il n'et pas necessaire de renseigner des données valides dans les exercices, par contre, les données renseignées doivent être conforme aux formats indiqués pour les champs.**",
+"title home_ucex" : "###Exemples d'utilisation###",
+"home_body_li1" : "Créer votre compte",
+"home_body_li2" : "Modifier vos n° de téléphone d'un compte entreprise",
+
+"title_account" : "Votre compte",
+"account_body_1" : "Veuillez renseigner les champs par dessous pour créer votre compte.  Cliquez le bouton **Mode tutoriel** en haut à droite de la page ou **Maj + F1** pour obtenir de l'aide.",
+"label_account_fname" : "Prénom",
+"label_account_lname" : "Nom",
+"label_account_birthday" : "Date de naissance",
+"label_account_email" : "Adresse courriel",
+"label_account_pwdconf" : "Confirmer mot de passe",
+"button_valid" : "Valider",
+"button_cancel" : "Abandonner",
+
+"tutlbl_uname" : "Pour cette maquette vous n'avez pas besoin d'un compte privé avec identification, nous vous proposons une identification de demonstration générale. Renseigner **demo** en tant qu'utilisateur dans le champ **Nom d'utilisateur** par dessous.",
+"tutlbl_pwd" : "Pour cette maquette, renseignez **demo123** comme mot de passe dans le champ par dessous.",
+"tutlbl_signin" : "Maintenant cliquez le bouton **S'identifier** par dessous.",
+
+"tutlbl_account_fname" : "Renseigner votre prénom dans le champ **Prénom**. Si vous avez plusieurs prénoms, ici vous ne devez renseigner que votre prénom d'utilisation habituelle.",
+"tutlbl_account_lname" : "Renseigez votre nom de famille dans le champ **Nom**.",
+"tutlbl_account_uname" : "Renseigez un nom d'utilisateur avec lequel vous désirez vous identifier sur ce site.  Le nom d'utilisateur peut avoir un maximum de 20 charactères et ne peut pas contenir des espaces ou charactères spéciales.",
+"tutlbl_account_birthday" : "Renseigez votre date de naissance dans le format de JJ/MM/AAAA.",
+"tutlbl_account_email" : "Renseigez une adresse courriel valide dans le champ **Adresse courriel** par dessous. Le format d'adresse courriel est _nom@domaine.extension_, par exemple, _jean.dupont@exemple.com_.  *Note:** Assurez-vous de renseigner une adresse courriel que vous pouvez accéder instantanement, car vous allez recevoir un courriel de confirmation pour votre compte à cette adresse. Pour confirmer, vous devez cliquer le lien contenu dans ce courriel.",
+"tutlbl_account_pwd" : "Renseigner un mot de passe pour ce compte. Le mot de passe doit contenir :  * au moins 12 charactères  * au moins une lettre majuscule et une lettre minuscule  * au moins un chiffre  * au moins un charactère spécial  Il ne peut pas contenir les charactères suivants :  * espaces et signes de ponctuation à part ! et ?  * /#, <,>, +, /*, et |",
+"tutlbl_account_pwdconf" : "Re-renseignez le mot de passe pour le confirmer dans le champ **Confirmer mot de passe**.",
+"tutlbl_account_submit" : "Cliquez **Valider** pour confirmer toutes les données renseignées.",
+
+"error_WrongDateFormat" : "La date renseigné m'est pas conforme au format demandé. I doit être JJ/MM/AAAA.",
+"error_UsernameTooLong" : "Le nom d'utilisateur est trop long, il ne peut pas avoir plus de 20 charactères",
+"error_PwTooShort" : "Le mot de passe est trop court, il doit avoir au moins 12 charactères.",
+"error_PwSpecialChars" : "Le mot de passe n'est pas conforme au règles mentionnés.",
+"error_EmailWrongFormat" : "L'adresse courriel n'est pas valide.",
+"error_InvalidPhoneNr" : "Le n° de téléphone n'est pas valide, il ne peut contenir que des chiffres."
+
+}
