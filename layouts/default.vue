@@ -34,6 +34,7 @@ export default {
       { name: 'Technical Documentation', path: '/services' },
       { name: 'Documentation Types', path: '/types' },
       { name: 'Localisation', path: '/locale' },
+      { name: 'Demo', path: '/demo' },
       { name: 'About', path: '/about' },
       { name: 'Contact', path: '/contact' }
     ]

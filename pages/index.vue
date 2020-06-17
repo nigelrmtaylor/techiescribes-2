@@ -1,6 +1,6 @@
 <template>
   <div>
-    Home
+    This is a test
   </div>
 </template>
 
